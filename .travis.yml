@@ -1,0 +1,16 @@
+language: python
+python:
+ - "3.6"
+ - "3.7"
+# command to install dependencies
+install:
+  - python setup.py install
+# command to run tests
+script:
+  - python run_tests.py
+
+sudo: false # route your build to the container-based infrastructure for a faster build
+
+# Optional: disable email notifications about the outcome of your builds
+notifications:
+  email: false
