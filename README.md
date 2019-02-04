@@ -6,7 +6,7 @@ A utility for controlling a nest thermostat via the Python API allowing for shif
 
 ## Requirements
 
-This tool is build on top of the Nest Python API:
+This tool is built ontop of the Nest Python API:
 
   
 * Python3
@@ -62,4 +62,4 @@ Instructions at: [How To Set Up LAMP Server Without Frameworks](https://www.digi
 
   
 
-* See example for [Raspberry Pi](http://raspberrywebserver.com/cgiscripting/setting-up-nginx-and-uwsgi-for-cgi-scripting.html)
+* See example for [Raspberry Pi] NGinX server with Python(http://raspberrywebserver.com/cgiscripting/setting-up-nginx-and-uwsgi-for-cgi-scripting.html)
