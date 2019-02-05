@@ -9,10 +9,4 @@ setup(
     description='A basic util for shifting a nest thermostat up or down',  # Optional
     packages=find_packages(),  # Required
     install_requires=['python-nest'],
-    entry_points={
-        'console_scripts': [
-            'hot=hot:main',
-            'cold=cold:main'
-        ]
-    }
     )
