@@ -42,24 +42,20 @@ python3 hot.py
 
 ## Use with Web Server
 
-  
-
 ### Apache2
 
-  
-
 * Enable CGI mode
-
 * place hot.py, cold.py, and fan.py where accessible by server
-
-  
 
 Instructions at: [How To Set Up LAMP Server Without Frameworks](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-apache-mysql-and-python-lamp-server-without-frameworks-on-ubuntu-14-04)
 
-  
+ 
 
 ### NGinX
 
-  
-
 * See example for [Raspberry Pi] NGinX server with Python(http://raspberrywebserver.com/cgiscripting/setting-up-nginx-and-uwsgi-for-cgi-scripting.html)
+
+## Supported Python Versions
+* 3.5
+* 3.6
+* 3.7 (not-dev)
