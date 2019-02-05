@@ -55,7 +55,7 @@ Instructions at: [How To Set Up LAMP Server Without Frameworks](https://www.digi
 
 ### NGinX
 
-* See example for [Raspberry Pi] NGinX server with Python(http://raspberrywebserver.com/cgiscripting/setting-up-nginx-and-uwsgi-for-cgi-scripting.html)
+* See example for [Raspberry Pi NGinX server with Python](http://raspberrywebserver.com/cgiscripting/setting-up-nginx-and-uwsgi-for-cgi-scripting.html)
 
 ## Supported Python Versions
 * 3.5
